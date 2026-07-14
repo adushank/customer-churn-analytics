@@ -187,10 +187,4 @@ Prompts for customer attributes and outputs:
 
 ---
 
-## Resume Bullet Points
 
-- Built a **production-quality end-to-end ML pipeline** in Python processing 7,000+ telecom customer records with **<2% data quality issues** resolved automatically
-- Designed a **normalized SQLite schema** with indexes, views, and constraints; authored **30 business SQL queries** using CTEs, window functions (LAG, LEAD, RANK, NTILE), and subqueries
-- Trained and evaluated **4 classification models** (LR, DT, RF, Gradient Boosting); achieved **ROC-AUC ~0.87** with best model auto-selected and persisted via Joblib
-- Generated **23 production-quality visualizations** (ROC curves, Pareto, correlation heatmap, confusion matrix, Precision-Recall curves) using Matplotlib and Seaborn
-- Identified key churn drivers: month-to-month contracts (43% churn), electronic check payments (45%), and short tenure (<12 months), surfacing **actionable retention recommendations**
